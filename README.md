@@ -166,13 +166,17 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 
 https://youtu.be/SrniAgyGMQo
 
-> 일반 회원 계정   
->> grace8362@naver.com   
->> a12345
+<pre>
+- 일반 회원 계정   
+grace8362@naver.com   
+a12345
+</pre>
 
-> 업주 회원 계정   
->> study201921104@gmail.com   
->> 123456
+<pre>
+- 업주 회원 계정   
+study201921104@gmail.com   
+123456
+</pre>
 
 #### 9. 아쉬운 점   
 <pre>
