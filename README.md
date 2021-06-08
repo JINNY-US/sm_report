@@ -89,6 +89,7 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 
 #### 6. 앱 UI 디자인   
 > 공통 화면   
+> 
 > ![KakaoTalk_20210608_214125728](https://user-images.githubusercontent.com/57963888/121195704-ccbf0b80-c8aa-11eb-9547-f2b04520c78d.png)
 >![KakaoTalk_20210608_214125728_01](https://user-images.githubusercontent.com/57963888/121195720-cfb9fc00-c8aa-11eb-8406-98169f84589d.png)
 >![KakaoTalk_20210608_214311023](https://user-images.githubusercontent.com/57963888/121197353-3390f480-c8ac-11eb-8972-eb55240538e0.png)   
@@ -99,11 +100,13 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
  
 >
 > 일반 회원   
-> ![KakaoTalk_20210608_214311023_03](https://user-images.githubusercontent.com/57963888/121195962-08f26c00-c8ab-11eb-9021-867cf3bae46a.png)
->![KakaoTalk_20210608_214311023_04](https://user-images.githubusercontent.com/57963888/121195967-0a239900-c8ab-11eb-93cf-65dff4c77ffa.png)
+> 
+>![KakaoTalk_20210608_214311023_03](https://user-images.githubusercontent.com/57963888/121197784-908caa80-c8ac-11eb-9eae-ef1c31b66a2f.png)
+>![KakaoTalk_20210608_214311023_04](https://user-images.githubusercontent.com/57963888/121197788-91bdd780-c8ac-11eb-8990-4cb5d5319908.png)
 >![KakaoTalk_20210608_211531908](https://user-images.githubusercontent.com/57963888/121196020-17d91e80-c8ab-11eb-9f61-d899cf32dfcb.png)
 >![KakaoTalk_20210608_224452798](https://user-images.githubusercontent.com/57963888/121196159-363f1a00-c8ab-11eb-8031-2b1ea3e8c1c0.png)
 >![KakaoTalk_20210608_214125728_05](https://user-images.githubusercontent.com/57963888/121196178-3a6b3780-c8ab-11eb-92ce-d76198a6e6a9.png)
+>
 
 
 #### 7. 앱 수익 창출   
