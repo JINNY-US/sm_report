@@ -109,7 +109,7 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 >
 >![KakaoTalk_20210608_224452798](https://user-images.githubusercontent.com/57963888/121196159-363f1a00-c8ab-11eb-8031-2b1ea3e8c1c0.png)
 >![KakaoTalk_20210608_214125728_05](https://user-images.githubusercontent.com/57963888/121196178-3a6b3780-c8ab-11eb-92ce-d76198a6e6a9.png)
->![KakaoTalk_20210608_224824115](https://user-images.githubusercontent.com/57963888/121197918-ad28e280-c8ac-11eb-9d8d-469184b3d81c.png)   
+>![KakaoTalk_20210609_001317649_01](https://user-images.githubusercontent.com/57963888/121212094-021e2600-c8b8-11eb-810c-2a39eb78712f.png)      
 >
 >![KakaoTalk_20210608_213846476_01](https://user-images.githubusercontent.com/57963888/121197985-bb76fe80-c8ac-11eb-9eee-25d0fc790c09.png)
 >![KakaoTalk_20210608_213846476_02](https://user-images.githubusercontent.com/57963888/121198004-bfa31c00-c8ac-11eb-8377-66fc7389a8dc.png)   
@@ -133,7 +133,7 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 >![KakaoTalk_20210608_214125728_03](https://user-images.githubusercontent.com/57963888/121198986-81f2c300-c8ad-11eb-9fb5-31a24b17e312.png)
 >![KakaoTalk_20210608_214125728_04](https://user-images.githubusercontent.com/57963888/121198993-8323f000-c8ad-11eb-9ca5-e7c6e0468bef.png)   
 >
->![KakaoTalk_20210608_230351572](https://user-images.githubusercontent.com/57963888/121199461-e7df4a80-c8ad-11eb-81c9-0646e17f45dd.png)
+>![KakaoTalk_20210609_001317649](https://user-images.githubusercontent.com/57963888/121212206-17935000-c8b8-11eb-98ef-83fa79fa356a.png)
 >![KakaoTalk_20210608_214125728_06](https://user-images.githubusercontent.com/57963888/121200052-63d99280-c8ae-11eb-8256-732e113e59fb.png)   
 >
 >![KakaoTalk_20210608_214125728_07](https://user-images.githubusercontent.com/57963888/121200055-64722900-c8ae-11eb-91a6-fc2b33153be2.png)
