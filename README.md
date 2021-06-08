@@ -1,6 +1,12 @@
 # sm_report
 스마트모바일프로그램설계 최종 보고서
 
+***
+
+실행 링크: https://github.com/Kim-KyungJin/sm_final_project   
+
+***
+
 01주차 팀 프로젝트 활동 : https://github.com/Kim-KyungJin/sm_week01   
 02주차 팀 프로젝트 활동 : https://github.com/Kim-KyungJin/sm_week02   
 03주차 팀 프로젝트 활동 : https://github.com/Kim-KyungJin/sm_week03   
