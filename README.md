@@ -91,7 +91,7 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 > 공통 화면   
 > ![KakaoTalk_20210608_214125728](https://user-images.githubusercontent.com/57963888/121195704-ccbf0b80-c8aa-11eb-9547-f2b04520c78d.png)
 >![KakaoTalk_20210608_214125728_01](https://user-images.githubusercontent.com/57963888/121195720-cfb9fc00-c8aa-11eb-8406-98169f84589d.png)
->![KakaoTalk_20210608_214311023](https://user-images.githubusercontent.com/57963888/121197353-3390f480-c8ac-11eb-8972-eb55240538e0.png)
+>![KakaoTalk_20210608_214311023](https://user-images.githubusercontent.com/57963888/121197353-3390f480-c8ac-11eb-8972-eb55240538e0.png)   
 >![KakaoTalk_20210608_214311023_01](https://user-images.githubusercontent.com/57963888/121197356-34c22180-c8ac-11eb-9a00-1a074d49685a.png)
 >![KakaoTalk_20210608_225300794](https://user-images.githubusercontent.com/57963888/121197519-56bba400-c8ac-11eb-9c14-3839ef1cdfff.png)
 >![KakaoTalk_20210608_214311023](https://user-images.githubusercontent.com/57963888/121197368-368be500-c8ac-11eb-9e97-dcce1417b4ba.png)   
