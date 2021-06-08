@@ -164,7 +164,7 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 
 #### 8. 앱 실행 영상   
 
-https://youtu.be/SrniAgyGMQo
+https://youtu.be/SrniAgyGMQo   
 
 <pre>
 - 일반 회원 계정   
