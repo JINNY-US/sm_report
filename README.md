@@ -103,10 +103,19 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 > 
 >![KakaoTalk_20210608_214311023_03](https://user-images.githubusercontent.com/57963888/121197784-908caa80-c8ac-11eb-9eae-ef1c31b66a2f.png)
 >![KakaoTalk_20210608_214311023_04](https://user-images.githubusercontent.com/57963888/121197788-91bdd780-c8ac-11eb-8990-4cb5d5319908.png)
->![KakaoTalk_20210608_211531908](https://user-images.githubusercontent.com/57963888/121196020-17d91e80-c8ab-11eb-9f61-d899cf32dfcb.png)
+>![KakaoTalk_20210608_211531908](https://user-images.githubusercontent.com/57963888/121196020-17d91e80-c8ab-11eb-9f61-d899cf32dfcb.png)   
 >![KakaoTalk_20210608_224452798](https://user-images.githubusercontent.com/57963888/121196159-363f1a00-c8ab-11eb-8031-2b1ea3e8c1c0.png)
 >![KakaoTalk_20210608_214125728_05](https://user-images.githubusercontent.com/57963888/121196178-3a6b3780-c8ab-11eb-92ce-d76198a6e6a9.png)
->
+>![KakaoTalk_20210608_224824115](https://user-images.githubusercontent.com/57963888/121197918-ad28e280-c8ac-11eb-9d8d-469184b3d81c.png)   
+>![KakaoTalk_20210608_213846476_01](https://user-images.githubusercontent.com/57963888/121197985-bb76fe80-c8ac-11eb-9eee-25d0fc790c09.png)
+>![KakaoTalk_20210608_213846476_08](https://user-images.githubusercontent.com/57963888/121198079-cfbafb80-c8ac-11eb-8597-39785591cb9d.png)
+>![KakaoTalk_20210608_213846476_09](https://user-images.githubusercontent.com/57963888/121198081-d0539200-c8ac-11eb-85f4-8b76162ac037.png)
+>![KakaoTalk_20210608_213846476_02](https://user-images.githubusercontent.com/57963888/121198004-bfa31c00-c8ac-11eb-8377-66fc7389a8dc.png)
+>![KakaoTalk_20210608_213846476_04](https://user-images.githubusercontent.com/57963888/121198023-c467d000-c8ac-11eb-928e-731822386fb6.png)
+>![KakaoTalk_20210608_213846476_05](https://user-images.githubusercontent.com/57963888/121198031-c598fd00-c8ac-11eb-93ed-8a440502238b.png)
+>![KakaoTalk_20210608_213846476_06](https://user-images.githubusercontent.com/57963888/121198045-c893ed80-c8ac-11eb-833a-135a799cf12a.png)
+>![KakaoTalk_20210608_213846476_07](https://user-images.githubusercontent.com/57963888/121198072-ce89ce80-c8ac-11eb-9524-e2b04ee34be9.png)
+
 
 
 #### 7. 앱 수익 창출   
