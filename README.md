@@ -104,6 +104,14 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 #### 8. 앱 실행 영상   
 
 
+> 일반 회원 계정   
+>> grace8362@naver.com   
+>> a12345
+
+> 업주 회원 계정   
+>> study201921104@gmail.com   
+>> 123456
+
 #### 9. 아쉬운 점   
 <pre>
 저희가 구현하고자 했던 기능 중에 하나였던 GPS가 원래는 사용자의 위치를 자동적으로 받아와 그 지역 주변의 가게를 서치해주는 기능이였데,
