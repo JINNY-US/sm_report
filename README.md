@@ -82,7 +82,7 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 5. 일반 회원과 같이 사용자가 검색을 하여 주변 가게들의 정보를 확인할 수 있습니다.
 </pre>
 
-![KakaoTalk_20210919_173500453](https://user-images.githubusercontent.com/57963888/133921552-b8855723-f59f-4ed1-939a-38234acef751.jpg)   
+![KakaoTalk_20210919_173500453](https://user-images.githubusercontent.com/57963888/133921600-151fc287-cba1-40ad-88d7-814e1f275fe5.jpg)   
 
 
 
