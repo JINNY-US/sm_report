@@ -82,8 +82,7 @@ https://github.com/Kim-KyungJin/sm_week03/blob/AppLogo/README.md
 5. 일반 회원과 같이 사용자가 검색을 하여 주변 가게들의 정보를 확인할 수 있습니다.
 </pre>
 
-![KakaoTalk_20210919_173500453](https://user-images.githubusercontent.com/57963888/133921428-031b6cc5-27a8-4316-8cdd-9217e5fa16fc.jpg)   
-
+![KakaoTalk_20210919_173500453](https://user-images.githubusercontent.com/57963888/133921496-20e9da2f-5fa8-436b-b233-1ae084805bce.jpg)   
 #### 5. 앱 차별성   
 <pre>
 다른 앱과의 비교를 위해 구글 플레이 스토어에 가보았습니다.
